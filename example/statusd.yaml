@@ -1,0 +1,4 @@
+monitors:
+  - name: Local
+    type: Https
+    url: http://localhost
